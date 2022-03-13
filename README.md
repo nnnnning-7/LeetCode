@@ -1,2 +1,4 @@
-# dynamic-programming
-Questions about dynamic programming.
+
+动态规划
+剑指offer
+100热题
